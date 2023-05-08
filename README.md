@@ -31,7 +31,7 @@ sudo yum install ansible -y
 
 ### Clone the repository 
 ```
-git clone https://github.com/shan5a6/kubernetes-installation.git
+git clone https://github.com/poshi143/k8s-installation.git
 cd kubernetes-installation
 Update the pem key to file "mykey.pem"
 chmod 600 mykey.pem
